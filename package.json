@@ -1,0 +1,22 @@
+{
+  "name": "node-videofileprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binRick/node-videofileprocessor"
+  },
+  "author": "Rick Blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/node-videofileprocessor/issues"
+  },
+  "homepage": "https://github.com/binRick/node-videofileprocessor",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
